@@ -1,0 +1,8 @@
+zandhi@SMT-M2-02240246:/mnt/d/BINUS/lab/Binus-AlgorithmAndProgramming/lab session 26&27/soal2$ gcc soal2.c -o soal2 && ./soal2
+Masukkan jumlah siswa: 5
+Masukkan nilai siswa ke-1: 20
+Masukkan nilai siswa ke-2: 30
+Masukkan nilai siswa ke-3: 10
+Masukkan nilai siswa ke-4: 40
+Masukkan nilai siswa ke-5: 50
+Rata-rata nilai siswa: 30.00
